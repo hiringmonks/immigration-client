@@ -1584,7 +1584,7 @@ div#mCSB_1_container{
 }
 
 .blinking{
-  animation: blinker 1.5s linear infinite;
+  animation: blinker 1s linear infinite;
   /* animation:blinkingText 1.2s infinite; */
 }
 
