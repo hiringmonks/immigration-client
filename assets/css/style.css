@@ -70,7 +70,7 @@
 
 body {
   font-size:15px;
-  color:#555555;
+  color:#000000;
   line-height:28px;
   font-weight:400;
   background:#ffffff;
@@ -1394,7 +1394,7 @@ div#mCSB_1_container{
 .mobile-menu .contact-info h4 {
   position: relative;
   font-size: 20px;
-  color: #ffffff;
+  color: #000000;
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -1403,12 +1403,12 @@ div#mCSB_1_container{
   position: relative;
   display: block;
   font-size: 15px;
-  color: rgba(255,255,255,0.80);
+  color: #000000;
   margin-bottom: 3px;
 }
 
 .mobile-menu .contact-info ul li a{
-  color: rgba(255,255,255,0.80);
+  color: #000000;
 }
 
 .mobile-menu .contact-info ul li a:hover{
@@ -1597,7 +1597,7 @@ div#mCSB_1_container{
 .sticky-header .main-menu .navigation > li > a{
   padding: 20px 30px;
   /* color: #162e40; */
-  color: #fff !important;
+  color: #000000 !important;
 }
 
 .sticky-header .main-menu .navigation > li.current > a, 
@@ -2627,8 +2627,8 @@ h3 a:hover{
 }
 
 .bg-color-2{
-  background: #5796c4    
-  /* 007ad6; */
+  background: #2a648e    
+  /* 007ad6; 5796c4 315773*/
   /* background: #0c2136; */
 }
 
@@ -3572,7 +3572,7 @@ h3 a:hover{
 }
 
 .main-footer .footer-top p{
-  color: #ebf5ff;
+  color: #000000;
   /* color: #7b8a9a; */
   line-height: 26px;
   margin-bottom: 26px;
@@ -3608,7 +3608,7 @@ h3 a:hover{
   font-size: 22px;
   line-height: 30px;
   font-weight: 700;
-  color: #fff;
+  color: #000000;
   margin: 0px;
 }
 
@@ -3637,7 +3637,7 @@ h3 a:hover{
   line-height: 26px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  color: #ebf5ff;
+  color: #000000;
   /* color: #7b8a9a; */
   padding-left: 25px;
 }
@@ -3650,7 +3650,7 @@ h3 a:hover{
   font-weight: 600;
   left: 0px;
   top: 1px;
-  color: #7b8a9a;
+  color: #5f5e5e;
   transition: all 500ms ease;
 }
 
